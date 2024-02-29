@@ -7,12 +7,12 @@ argparse
 pip install argparse
 
 # The contents of this Project :
-opencv_face_detector.pbtxt
-opencv_face_detector_uint8.pb
-age_deploy.prototxt
-age_net.caffemodel
-gender_deploy.prototxt
-gender_net.caffemodel
+opencv_face_detector.pbtxt, 
+opencv_face_detector_uint8.pb, 
+age_deploy.prototxt, 
+age_net.caffemodel, 
+gender_deploy.prototxt, 
+gender_net.caffemodel,
    
 # output:
 Gender: Female
